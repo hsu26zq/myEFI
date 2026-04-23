@@ -8,7 +8,7 @@ gpu: powercolor rx 6600 hellhound
 
 ram: 32gb
 
-storage: micron1tb ssd
+storage: micron 1tb ssd
 
 networking:
   realtek 1gb ethernet
